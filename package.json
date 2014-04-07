@@ -1,0 +1,27 @@
+{
+  "name": "sapphire",
+  "version": "0.1.0",
+  "description": "ruby syntax ported to javascript, done right.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jugoncalves/sapphire"
+  },
+  "keywords": [
+    "ruby",
+    "syntax",
+    "macros"
+  ],
+  "author": "Jú Gonçalves <github@jugoncalv.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jugoncalves/sapphire/issues"
+  },
+  "homepage": "https://github.com/jugoncalves/sapphire",
+  "dependencies": {
+    "sweet.js": "~0.5.0"
+  }
+}
