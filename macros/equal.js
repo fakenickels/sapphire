@@ -1,3 +1,5 @@
+// 2 equals as sane langs
+
 macro (==){
   rule infix { $left | $right } => {
     $left === $right
