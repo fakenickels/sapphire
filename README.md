@@ -1,3 +1,3 @@
 #sapphire
 
-experimental ruby macros for javascript.
+experimental ruby-inspired macros for javascript.

@@ -1,7 +1,7 @@
 {
   "name": "sapphire",
   "version": "0.1.0",
-  "description": "experimental ruby macros for javascript",
+  "description": "experimental ruby-inspired macros for javascript",
   "main": "index.js",
   "scripts": {
     "test": "make test"
